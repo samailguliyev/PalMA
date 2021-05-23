@@ -267,31 +267,31 @@ msgstr ""
 
 #: index.php:1233
 msgid "Windows:"
-msgstr ""
+msgstr "Windows:"
 
 #: index.php:1235
 msgid "Run the downloaded file."
-msgstr ""
+msgstr "Открыть загруженный файл"
 
 #: index.php:1236
 msgid "Double-click the name of your PalMA station in the appearing list."
-msgstr ""
+msgstr "Кликните дважды на название вашей PalMA стации в появившемся списке"
 
 #: index.php:1238
 msgid "Mac:"
-msgstr ""
+msgstr "Mac:"
 
 #: index.php:1240
 msgid "CTRL + click the downloaded file and run it."
-msgstr ""
+msgstr " Зажмите CTRL + кликните на загруженный файл,чтобы запустить его.  "
 
 #: index.php:1241
 msgid "A second window opens, in which you can start &quot;VineServer&quot;."
-msgstr ""
+msgstr " Второе окно отроется, в котором вы можете запустить &quot;VineServer&quot;. "
 
 #: index.php:1242
 msgid "In the upper left corner, click on &quot;VNC Server&quot;."
-msgstr ""
+msgstr "Нажмите на &quot;VNC Server&quot;. в правом левом углу."
 
 #: index.php:1243
 msgid "Select &quot;Reverse Connection&quot;."
